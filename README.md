@@ -1,10 +1,10 @@
 # VAE
-This is repository contains simple VAE implementation.
+This repos contains simple VAE implementation.
 
-All experiments were preformed on MNIST dataset. 
+All experiments were performed on MNIST dataset. 
 
 ### Visualization of latent space from VAE
 
 ![latent_space](latent_space.png)
 
-Differnt colors represent different classes - digits from 0 to 9. 
+Different colors represent different classes - digits from 0 to 9. 
